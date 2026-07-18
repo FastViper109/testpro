@@ -7940,3 +7940,31 @@
 139.84.226.30,8443,ZA,The Constant Company
 156.38.157.171,2053,ZA,Xneelo (Pty) Ltd
 156.38.157.171,8443,ZA,Xneelo (Pty) Ltd
+216.238.116.196,8443,BR,The Constant Company
+216.238.110.198,8443,BR,The Constant Company
+176.74.218.168,8443,CZ,Host-Telecom.com s.r.o.
+176.74.218.168,2053,CZ,Host-Telecom.com s.r.o.
+176.74.218.168,443,CZ,Host-Telecom.com s.r.o.
+144.31.17.159,443,DE,Senko Digital Ltd
+139.162.145.35,8443,DE,Akamai Connected Cloud
+62.60.228.162,443,FI,Aeza International
+95.214.9.167,443,FI,FIRST SERVER LIMITED
+85.192.49.132,8443,FI,H2NEXUS LTD
+77.110.97.92,443,GB,AEZA INTERNATIONAL LTD
+98.70.26.236,443,IN,Microsoft Azure
+146.56.180.103,443,KR,Oracle Corporation
+80.211.250.20,2053,PL,Aruba Networks
+80.211.250.20,8443,PL,Aruba S.p.A
+178.253.55.191,2053,RU,Hypercore Ltd
+178.253.55.191,8443,RU,Hypercore Ltd
+194.67.67.158,8443,RU,Domain names registrar REG.RU
+89.248.207.37,443,RU,OOO Network of datacenters Selectel
+195.72.61.22,443,SE,Hollander & Jacobsen UG (haftungsbeschraenkt)
+124.156.202.172,443,SG,Tencent cloud computing
+31.59.136.223,443,US,AS56971 Cloud
+142.171.118.101,443,US,MULTACOM CORPORATION
+64.181.240.173,443,US,Oracle Cloud
+129.159.37.136,443,US,Oracle Corporation
+192.3.209.49,443,US,HostPapa
+150.136.87.192,443,US,Oracle Cloud
+155.138.209.175,443,US,N/A.N/A
